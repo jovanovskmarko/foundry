@@ -1063,8 +1063,8 @@
       }
     },
     "test/Excercise.t.sol": {
-      "lastModificationDate": 1671042967803,
-      "contentHash": "de630005ac8650a3beecca2270c53f88",
+      "lastModificationDate": 1671044601796,
+      "contentHash": "06211d2b39efe772afa2682cbbb14049",
       "sourceName": "test/Excercise.t.sol",
       "solcConfig": {
         "settings": {
